@@ -1,5 +1,9 @@
 # 🎬 Netflix Movies and TV Shows Clustering
 
+<p align="center"> 
+  <img src="https://github.com/anishjohnson/NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING/blob/main/Images_used/venti-views-lI7dlA5VBp8-unsplash.jpg">
+</p>
+
 ## **Overview**  
 This project analyzes Netflix's content library and performs clustering on movies and TV shows available on the platform. The objective is to explore content distribution, trends, and similarities across different genres and countries.
 
