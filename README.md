@@ -2,6 +2,7 @@
 
 <p align="center"> 
   <img src="https://github.com/anishjohnson/NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING/blob/main/Images_used/venti-views-lI7dlA5VBp8-unsplash.jpg">
+![Alt text for the image](netflix.png)
 </p>
 
 ## **Overview**  
