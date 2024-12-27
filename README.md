@@ -1,7 +1,7 @@
 # 🎬 Netflix Movies and TV Shows Clustering
 
 <p align="center"> 
-  <img src="https://github.com/anishjohnson/NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING/blob/main/Images_used/venti-views-lI7dlA5VBp8-unsplash.jpg">
+  <img src="https://github.com/connectsoumyaroy/Netflix-Movies-and-TV-Shows-Clustering/blob/main/Netflix.jpg">
 </p>
 
 ## **Overview**  
